@@ -36,3 +36,5 @@ I help teams ship reliable software systems with clear architecture, strong oper
 
 ## Availability
 Open to freelance collaborations on backend development, system integrations, and automation-heavy projects.
+
+_Last updated: 2026-03-12._
