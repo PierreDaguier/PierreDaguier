@@ -36,4 +36,4 @@ I am intentionally building deeper capabilities at the intersection of:
 - production reliability and operational observability
 
 ## Collaboration
-Open to freelance work on backend delivery, automation integrations, and reliability-focused systems.
+Open to collaboration on backend delivery, automation integrations, and reliability-focused systems.
