@@ -13,7 +13,7 @@ Backend systems | Automation workflows | Observability | Cyber-aware engineering
 
 [![Portfolio](https://img.shields.io/badge/portfolio-pierredaguier.com-121212?style=flat-square&logo=vercel&logoColor=48FF82&labelColor=000000&color=0A1E15)](https://pierredaguier.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-pierre--daguier-121212?style=flat-square&logo=linkedin&logoColor=48FF82&labelColor=000000&color=0A1E15)](https://www.linkedin.com/in/pierre-daguier/)
-[![Email](https://img.shields.io/badge/email-contact-121212?style=flat-square&logo=gmail&logoColor=48FF82&labelColor=000000&color=0A1E15)](mailto:pierredaguier@gmail.com)
+[![Email](https://img.shields.io/badge/email-contact-121212?style=flat-square&logo=gmail&logoColor=48FF82&labelColor=000000&color=0A1E15)](mailto:contact@pierredaguier.com)
 
 ## Featured Repositories
 
